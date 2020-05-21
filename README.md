@@ -1,27 +1,37 @@
-## Welcome to My Github Pages Website
+## Project Links
 
+[Android-Stopwatch](https://github.com/duncanrout/Android-Stopwatch)
+[Mock Database Locally Hosted Website](https://github.com/duncanrout/Sushi-Database-Website)
 
-### Project Links
-
-How to link
-Example: You can use the [editor on GitHub](https://github.com/duncanrout/duncanrout.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files
-
-### Notes for Future
+## Resume
 
 ```markdown
-Syntax highlighted code block
+EDUCATION
+Loyola University Chicago
+Bachelor of Science (B.S.) in Computer Science – May 2022
+GPA: 3.6/4.0
 
-# Header 1
-## Header 2
-### Header 3
+COMPUTER SKILLS
+Expirience in: Java, C++, Assembly, HTML, MySQL, Python
+Operating Systems / Software: UNIX, Windows, GitHub, Anaconda, Eclipse, XAMPP, phpMyAdmin, MongoDB, Basic Microsoft Applications, FL Studio, CAD
 
-- Bulleted
-- List
+WORK EXPERIENCE
+Kama Bistro, La Grange, IL, February 2017 - June 2019
+Food Runner / Busboy
+•	Trained internal staff members on administrative processes
+•	Executed quality customer service for over 100 patrons daily, resulting in a positive brand experience for each person
+•	Developed strategies and provided productive feedback for the employer
+Delivery / Carry Out 
+•	Reviewing orders before and after delivery to ensure that orders are complete, the charges are correct, and the customer is satisfied
+•	Adhering to assigned routes and following time schedules
 
-1. Numbered
-2. List
+COMMUNITY INVOLVMENT & EXTRACURRICULAR ACTIVITIES
+Lyons Township High School
+Math / Computer Science Tutor
 
-**Bold** and _Italic_ and `Code` text
+La Grange Summerfest
+Staff Volunteer
 
-[Link](url) and ![Image](src)
+La Grange Celtics Organization
+Volunteer
 ```
