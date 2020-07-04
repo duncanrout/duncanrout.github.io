@@ -1,4 +1,5 @@
-![image-title-here](/githubQR.png)
+![image-title-here](/githubQR.png){:height="700px" width="400px"}
+
 
 
 ## Project Links
