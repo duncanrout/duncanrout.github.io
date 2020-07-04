@@ -17,7 +17,7 @@ Loyola University Chicago
 Bachelor of Science (B.S.) in Computer Science – May 2022
 GPA: 3.6/4.0
 
-COMPUTER SKILLS
+CAREER SKILLS
 Experience in: Java, C++, Assembly, HTML, MySQL, Python
 Operating Systems / Software: UNIX, Windows, GitHub, Anaconda, Eclipse, XAMPP, 
 phpMyAdmin, MongoDB, Basic Microsoft Applications, FL Studio, CAD
