@@ -1,4 +1,4 @@
-![image-title-here](/githubQR.png){:height="700px" width="400px"}
+!{:height="700px" width="400px"}[QR Code](/githubQR.png)
 
 
 
