@@ -1,4 +1,4 @@
-[QR Code to This Website](/githubQR.png))
+[QR Code to This Website](/githubQR.png)
 
 ## Project Links
 
