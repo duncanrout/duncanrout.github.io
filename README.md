@@ -1,3 +1,6 @@
+![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+
+
 ## Project Links
 
 [Android-Stopwatch](https://github.com/duncanrout/Android-Stopwatch) 
