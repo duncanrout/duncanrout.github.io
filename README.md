@@ -6,7 +6,7 @@
 
 [In the Works Multiplayer Web Game](https://github.com/duncanrout/Node-Game)
 
-[Tic-Tac-Toe] (https://github.com/duncanrout/Tic-Tac-Toe)
+[Tic-Tac-Toe](https://github.com/duncanrout/Tic-Tac-Toe)
 
 
 ## Resume
