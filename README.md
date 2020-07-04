@@ -1,4 +1,4 @@
-![image-title-here](/path/to/image.jpg){:class="img-responsive"}
+![image-title-here](/githubQR){:class="img-responsive"}
 
 
 ## Project Links
