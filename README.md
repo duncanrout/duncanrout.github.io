@@ -1,4 +1,4 @@
-{:height="200px" width="200px"}![QR Code](/githubQR.png)
+![QR Code](/githubQR.png{:height="200px" width="200px"})
 
 
 
