@@ -1,6 +1,4 @@
-(![QR Code](/githubQR.png)){:height="700px" width="400px"}
-
-
+[QR Code to This Website](/githubQR.png))
 
 ## Project Links
 
