@@ -11,6 +11,11 @@
 [In the Works Multiplayer Web Game](https://github.com/duncanrout/Node-Game)
 
 
+## LinkedIn
+
+[LinkedIn](https://www.linkedin.com/in/duncan-rout-63390019b)
+
+
 ## Resume
 
 ```markdown
