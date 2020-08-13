@@ -17,7 +17,10 @@
 ## Resume
 [Hit "view raw"](https://github.com/duncanrout/Resume/blob/master/RoutResume.docx)
 
+## Other Links
 [QR Code to This Website](/githubQR.png)
+
+
 ## Quick Resume
 
 ```markdown
@@ -38,10 +41,3 @@ Hobbies: Climbing, Art, Music Production, Frisbee Golf, Weightlifting
 WORK EXPERIENCE
 Kama Bistro, La Grange, IL, February 2017 - June 2019
 Food Runner, Busboy, Delivery, Carry Out 
-
-
-
-
-
-
-
