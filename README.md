@@ -18,7 +18,7 @@
 [LinkedIn](https://www.linkedin.com/in/duncan-rout-63390019b)
 
 
-## Resume
+## Quick Resume
 
 ```markdown
 EDUCATION
@@ -27,21 +27,15 @@ Bachelor of Science (B.S.) in Computer Science – May 2022
 GPA: 3.6/4.0
 
 CAREER SKILLS
-Experience in: Java, C++, Assembly, HTML, MySQL, Python
+Languages: (Known): Java, Sql, Python… (Experience in): C++, html, assembly, JavaScript
 Operating Systems / Software: UNIX, Windows, GitHub, Anaconda, Eclipse, XAMPP, 
 phpMyAdmin, MongoDB, Basic Microsoft Applications, FL Studio, CAD
+
+INTERESTS
+Career Interests: Database design, software development, data analytics, object-oriented programming, mathematics, videogame design
+Hobbies: Climbing, Art, Music Production, Frisbee Golf, Weightlifting 
 
 WORK EXPERIENCE
 Kama Bistro, La Grange, IL, February 2017 - June 2019
 Food Runner, Busboy, Delivery, Carry Out 
 
-COMMUNITY INVOLVMENT & EXTRACURRICULAR ACTIVITIES
-Lyons Township High School
-Math / Computer Science Tutor
-
-La Grange Summerfest
-Staff Volunteer
-
-La Grange Celtics Organization
-Volunteer
-```
