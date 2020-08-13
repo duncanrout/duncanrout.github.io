@@ -6,8 +6,6 @@
 
 [Sushi Website](https://github.com/duncanrout/Sushi-Database-Website) 
 
-[Scrabble](https://github.com/jackfornaro/scrabble)
-
 [Tic-Tac-Toe](https://github.com/duncanrout/Tic-Tac-Toe)
 
 [In the Works Multiplayer Web Game](https://github.com/duncanrout/Node-Game)
