@@ -17,7 +17,7 @@
 ## Resume
 [Hit "view raw"](https://github.com/duncanrout/Resume/blob/master/RoutResume.docx)
 
-
+[QR Code to This Website](/githubQR.png)
 ## Quick Resume
 
 ```markdown
@@ -41,7 +41,7 @@ Food Runner, Busboy, Delivery, Carry Out
 
 
 
-[QR Code to This Website](/githubQR.png)
+
 
 
 
