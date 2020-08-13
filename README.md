@@ -17,6 +17,7 @@
 
 
 ## Quick Resume
+
 ```markdown
 EDUCATION
 Loyola University Chicago
