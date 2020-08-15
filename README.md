@@ -21,7 +21,7 @@
 [QR Code to This Website](/githubQR.png)
 
 
-### Quick Resume
+# Quick Resume
 
 Education 
 ------------
