@@ -23,7 +23,7 @@
 
 ## Quick Resume
 
-EDUCATION
+Education 
 ------------
 
 Loyola University Chicago
@@ -33,7 +33,7 @@ Bachelor of Science (B.S.) in Computer Science – May 2022
 GPA: 3.6/4.0
 
 
-CAREER SKILLS
+Career skills
 -------------
 
 Languages: (Known): Java, Sql, Python… (Experience in): C++, html, assembly, JavaScript
@@ -42,7 +42,7 @@ Operating Systems / Software: UNIX, Windows, GitHub, Anaconda, Eclipse, XAMPP,
 
 phpMyAdmin, MongoDB, Basic Microsoft Applications, FL Studio, CAD
 
-INTERESTS
+Interests
 -------------
 
 Career Interests: Database design, software development, data analytics, object-oriented programming, mathematics, videogame design
@@ -50,7 +50,7 @@ Career Interests: Database design, software development, data analytics, object-
 Hobbies: Climbing, Art, Music Production, Frisbee Golf, Weightlifting 
 
 
-WORK EXPERIENCE
+Work Experience
 -------------
 
 Kama Bistro, La Grange, IL, February 2017 - June 2019
