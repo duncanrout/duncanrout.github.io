@@ -24,6 +24,7 @@
 ## Quick Resume
 
 EDUCATION
+------------
 
 Loyola University Chicago
 
@@ -33,6 +34,7 @@ GPA: 3.6/4.0
 
 
 CAREER SKILLS
+-------------
 
 Languages: (Known): Java, Sql, Python… (Experience in): C++, html, assembly, JavaScript
 
@@ -40,8 +42,8 @@ Operating Systems / Software: UNIX, Windows, GitHub, Anaconda, Eclipse, XAMPP,
 
 phpMyAdmin, MongoDB, Basic Microsoft Applications, FL Studio, CAD
 
-
 INTERESTS
+-------------
 
 Career Interests: Database design, software development, data analytics, object-oriented programming, mathematics, videogame design
 
@@ -49,6 +51,7 @@ Hobbies: Climbing, Art, Music Production, Frisbee Golf, Weightlifting
 
 
 WORK EXPERIENCE
+-------------
 
 Kama Bistro, La Grange, IL, February 2017 - June 2019
 
