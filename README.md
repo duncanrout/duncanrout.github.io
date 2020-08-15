@@ -23,7 +23,6 @@
 
 ## Quick Resume
 
-```markdown
 EDUCATION
 Loyola University Chicago
 Bachelor of Science (B.S.) in Computer Science – May 2022
