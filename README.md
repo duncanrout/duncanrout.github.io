@@ -1,4 +1,4 @@
-## Project Links
+# Project Links
 
 [Android-Stopwatch](https://github.com/duncanrout/Android-Stopwatch) 
 
@@ -9,19 +9,20 @@
 [In the Works Multiplayer Web Game](https://github.com/duncanrout/Node-Game)
 
 
-## LinkedIn
+# LinkedIn
 
 [LinkedIn](https://www.linkedin.com/in/duncan-rout-63390019b)
 
 
-## Resume
+# Resume
 [Hit "view raw"](https://github.com/duncanrout/Resume/blob/master/RoutResume.docx)
 
-## Other Links
+# Other Links
 [QR Code to This Website](/githubQR.png)
 
 
 # Quick Resume
+
 
 Education 
 ------------
