@@ -1,4 +1,5 @@
 # Project Links
+[Codility Puzzles](https://github.com/duncanrout/Codility-Puzzles)
 
 [Run-Anywhere](https://github.com/rbulai/run-anywhere)
 
