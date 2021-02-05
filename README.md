@@ -16,10 +16,3 @@
 
 [LinkedIn](https://www.linkedin.com/in/duncan-rout-63390019b)
 
-
-# Resume
-[Hit "view raw"](https://github.com/duncanrout/Resume/blob/master/RoutResume.docx)
-
-# Other Links
-[QR Code to This Website](/githubQR.png)
-
