@@ -1,5 +1,5 @@
 # Project Links
-[Note-Float](https://github.com/duncanrout/NoteFloat)
+[Note-Float](https://github.com/duncanrout/NoteFloatv2)
 
 [Run-Anywhere](https://github.com/rbulai/run-anywhere)
 
