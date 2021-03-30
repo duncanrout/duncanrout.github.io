@@ -5,6 +5,8 @@
 
 [Codility Puzzles](https://github.com/duncanrout/Codility-Puzzles)
 
+[NCL Challenges](https://github.com/duncanrout/NCL-Log-Analysis)
+
 [Android-Stopwatch](https://github.com/duncanrout/Android-Stopwatch) 
 
 [Sushi Website](https://github.com/duncanrout/Sushi-Database-Website) 
